@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+button{
+    margin: auto;
+    background-color: #fff;
+    color: black;
+    border-radius: 5px;
+    padding: 5px;
+    border: 2px solid;
+    cursor: pointer;
+}
